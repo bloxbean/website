@@ -2,5 +2,6 @@
   "name": "BloxBean Pool",
   "description": "BloxBean Cardano Pool",
   "ticker": "BLOXB",
-  "homepage": "https://www.bloxbean.com/"
+  "homepage": "https://www.bloxbean.com/",
+  "extended": "https://pages.bloxbean.com/cardano-stake/extended.json"
 }
